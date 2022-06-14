@@ -1,5 +1,4 @@
 
-
 :root {
   --black: #171321;
   --dkblue: #0d314b;
@@ -13,8 +12,6 @@
   --sans: Oxygen, sans-serif;
 }
 
-
-/* border box model: https://css-tricks.com/box-sizing/ */
 
 html {
   box-sizing: border-box;
